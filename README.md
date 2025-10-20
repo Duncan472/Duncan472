@@ -1,4 +1,78 @@
-## Hi there! 👋
+## ASCII Art
+
+```                                                                                                                                                                         
+                                                                                                                                                                         
+          JJJJJJJJJJJ          AAA   VVVVVVVV           VVVVVVVV   AAA               RRRRRRRRRRRRRRRRR   EEEEEEEEEEEEEEEEEEEEEE   SSSSSSSSSSSSSSS TTTTTTTTTTTTTTTTTTTTTTT
+          J:::::::::J         A:::A  V::::::V           V::::::V  A:::A              R::::::::::::::::R  E::::::::::::::::::::E SS:::::::::::::::ST:::::::::::::::::::::T
+          J:::::::::J        A:::::A V::::::V           V::::::V A:::::A             R::::::RRRRRR:::::R E::::::::::::::::::::ES:::::SSSSSS::::::ST:::::::::::::::::::::T
+          JJ:::::::JJ       A:::::::AV::::::V           V::::::VA:::::::A            RR:::::R     R:::::REE::::::EEEEEEEEE::::ES:::::S     SSSSSSST:::::TT:::::::TT:::::T
+            J:::::J        A:::::::::AV:::::V           V:::::VA:::::::::A             R::::R     R:::::R  E:::::E       EEEEEES:::::S            TTTTTT  T:::::T  TTTTTT
+            J:::::J       A:::::A:::::AV:::::V         V:::::VA:::::A:::::A            R::::R     R:::::R  E:::::E             S:::::S                    T:::::T        
+            J:::::J      A:::::A A:::::AV:::::V       V:::::VA:::::A A:::::A           R::::RRRRRR:::::R   E::::::EEEEEEEEEE    S::::SSSS                 T:::::T        
+            J:::::j     A:::::A   A:::::AV:::::V     V:::::VA:::::A   A:::::A          R:::::::::::::RR    E:::::::::::::::E     SS::::::SSSSS            T:::::T        
+            J:::::J    A:::::A     A:::::AV:::::V   V:::::VA:::::A     A:::::A         R::::RRRRRR:::::R   E:::::::::::::::E       SSS::::::::SS          T:::::T        
+JJJJJJJ     J:::::J   A:::::AAAAAAAAA:::::AV:::::V V:::::VA:::::AAAAAAAAA:::::A        R::::R     R:::::R  E::::::EEEEEEEEEE          SSSSSS::::S         T:::::T        
+J:::::J     J:::::J  A:::::::::::::::::::::AV:::::V:::::VA:::::::::::::::::::::A       R::::R     R:::::R  E:::::E                         S:::::S        T:::::T        
+J::::::J   J::::::J A:::::AAAAAAAAAAAAA:::::AV:::::::::VA:::::AAAAAAAAAAAAA:::::A      R::::R     R:::::R  E:::::E       EEEEEE            S:::::S        T:::::T        
+J:::::::JJJ:::::::JA:::::A             A:::::AV:::::::VA:::::A             A:::::A   RR:::::R     R:::::REE::::::EEEEEEEE:::::ESSSSSSS     S:::::S      TT:::::::TT      
+ JJ:::::::::::::JJA:::::A               A:::::AV:::::VA:::::A               A:::::A  R::::::R     R:::::RE::::::::::::::::::::ES::::::SSSSSS:::::S      T:::::::::T      
+   JJ:::::::::JJ A:::::A                 A:::::AV:::VA:::::A                 A:::::A R::::::R     R:::::RE::::::::::::::::::::ES:::::::::::::::SS       T:::::::::T      
+     JJJJJJJJJ  AAAAAAA                   AAAAAAAVVVAAAAAAA                   AAAAAAARRRRRRRR     RRRRRRREEEEEEEEEEEEEEEEEEEEEE SSSSSSSSSSSSSSS         TTTTTTTTTTT                                                                                                                                                                           
+                                                                                                                                                                         
+                                                                                                                                                                                                                                                                                                                                                
+                     
+```
+
+## Hello! 👋
+
+I'm **Duncan Maina**, a passionate **Java Junior Developer** from **Chuka, Kenya**. I love building efficient and scalable applications, and I'm excited to share my projects and skills with you!
+
+## About Me
+
+I am a junior developer with a strong focus on Java programming. My journey in coding began with a passion for technology and problem-solving. I enjoy learning new technologies and applying them to real-world projects. Currently based in Chuka, Kenya, I am always on the lookout for opportunities to grow and collaborate on exciting projects.
+
+## Skills & Technologies
+
+java,css,html,mysql,git,docker,graphql,spring,react
+
+## Top Projects
+
+- [Dunwam-Bank](https://github.com/Duncan472/Dunwam-Bank): A Bank Management System. **Stars:** 0, **Language:** Java, **Forks:** 0, **Open Issues:** 0
+- [ComputerWidget](https://github.com/Duncan472/ComputerWidget): A practical guide on how to create computer widgets. **Stars:** 0, **Language:** Java, **Forks:** 0, **Open Issues:** 0
+- [JavaFxBank](https://github.com/Duncan472/JavaFxBank): A sample bank application. **Stars:** 0, **Language:** Java, **Forks:** 0, **Open Issues:** 0
+- [JepsChemistPOS](https://github.com/Duncan472/JepsChemistPOS): A Pharmacy POS system. **Stars:** 0, **Language:** Java, **Forks:** 0, **Open Issues:** 0
+- [TemperatureConversionProgram-](https://github.com/Duncan472/TemperatureConversionProgram-): A program for temperature conversions. **Stars:** 0, **Language:** Java, **Forks:** 0, **Open Issues:** 0
+
+## GitHub Stats
+
+🔭 **Public Repositories:** 11  
+👥 **Followers:** 3  
+👣 **Following:** 7  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duncan472&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Pushed code to [Duncan472](https://github.com/Duncan472/Duncan472) on **October 20, 2025**.
+- Updated [Dunwam-Bank](https://github.com/Duncan472/Dunwam-Bank) with new features on **October 20, 2025**.
+- Created new branch in [Duncan472](https://github.com/Duncan472/Duncan472) on **October 20, 2025**.
+- Pushed updates to [ComputerWidget](https://github.com/Duncan472/ComputerWidget) on **October 20, 2025**.
+- Pushed code to [JepsChemistPOS](https://github.com/Duncan472/JepsChemistPOS) on **October 20, 2025**.
+
+## Latest Blog Posts
+
+Currently, I do not have any blog posts to share. Check back later for updates!
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/duncan-maina-345b52308/","facebook":"https://www.facebook.com/profile.php?id=100091578309225","twitter":"https://x.com/Mainadunca69552"}
+
+## My Talks
+
+- [Talk Title](link-to-talk) - Brief description of the talk
+
+## Certifications
+
+- [Certification Name](link-to-certificate) - Issuing organization, Year## Hi there! 👋
 
 I'm Duncan Maina, a passionate Java Junior Developer based in Chuka, Kenya. I love bringing ideas to life through code and aim to make a positive impact in the software development world. Let's connect!
 
