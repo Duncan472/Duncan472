@@ -1,17 +1,73 @@
-<h1 align="center">Hello 👋, I'm Duncan Maina</h1>
-<h3 align="center">A passionate Full Stack developer from Kenya</h3>
+## Hi there! 👋
 
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+I'm Duncan Maina, a passionate Java Junior Developer based in Chuka, Kenya. I love bringing ideas to life through code and aim to make a positive impact in the software development world. Let's connect!
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+## About Me
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original-wordmark.svg" alt="angularjs" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://couchdb.apache.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/couchdb/couchdb-original.svg" alt="couchdb" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://kotlinlang.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/kotlinlang/kotlinlang-icon.svg" alt="kotlin" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://spring.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> </p>
+I'm a dedicated Java developer with a strong enthusiasm for learning and growth in the tech industry. Currently, I am focused on enhancing my skills and developing various projects in Java. I believe in continuous learning and strive to keep up with the latest technologies and best practices.
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=duncan472&show_icons=true&locale=en&layout=compact" alt="duncan472" /></p>
+## Skills & Technologies
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=duncan472&show_icons=true&locale=en" alt="duncan472" /></p>
+java,css,html,mysql,git,github,flask,androidstudio,jenkins,docker,spring,graphql
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=duncan472&" alt="duncan472" /></p>
+## Top Projects
+
+- [Dunwam-Bank](https://github.com/Duncan472/Dunwam-Bank)
+  - A Bank Management System
+  - ⭐ 0 Stars | Language: Java | Forks: 0 | Issues: 0
+
+- [JepsChemistPOS](https://github.com/Duncan472/JepsChemistPOS)
+  - A Pharmacy POS
+  - ⭐ 0 Stars | Language: Java | Forks: 0 | Issues: 0
+
+- [My-Portfolio-Website-](https://github.com/Duncan472/My-Portfolio-Website-)
+  - A Portfolio website for self
+  - ⭐ 0 Stars | Language: CSS | Forks: 0 | Issues: 0
+
+- [JavaFxBank](https://github.com/Duncan472/JavaFxBank)
+  - A Sample bank Application
+  - ⭐ 0 Stars | Language: Java | Forks: 0 | Issues: 0
+
+- [ComputerWidget](https://github.com/Duncan472/ComputerWidget)
+  - A practical on How to Create Computer Widgets
+  - ⭐ 0 Stars | Language: Java | Forks: 0 | Issues: 0
+
+## GitHub Stats
+
+🌟 **Public Repositories:** 11  
+👥 **Followers:** 3  
+🔗 **Following:** 7  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duncan472&show_icons=true&theme=radical)
+
+## Recent Activity
+
+- Pushed changes to [Dunwam-Bank](https://github.com/Duncan472/Dunwam-Bank) on 2025-10-20  
+- Created a new branch in [Duncan472](https://github.com/Duncan472/Duncan472) on 2025-10-20  
+- Updated [JepsChemistPOS](https://github.com/Duncan472/JepsChemistPOS) on 2025-10-20  
+- Pushed an update to [ComputerWidget](https://github.com/Duncan472/ComputerWidget) on 2025-06-12  
+- Created the repository [TemperatureConversionProgram-](https://github.com/Duncan472/TemperatureConversionProgram-) on 2024-06-08
+
+## Latest Blog Posts
+
+I currently do not have any blog posts. Stay tuned for updates!
+
+## Connect with Me
+
+{"linkedin":"https://www.linkedin.com/in/duncan-maina-345b52308/","facebook":"https://www.facebook.com/profile.php?id=100091578309225","twitter":"https://x.com/Mainadunca69552"}
+
+## ASCII Art
+
+```
+ .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------.  .----------------. 
+| .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. || .--------------. |
+| |     _____    | || |      __      | || | ____   ____  | || |      __      | || |  _______     | || |  _________   | || |    _______   | || |  _________   | |
+| |    |_   _|   | || |     /  \     | || ||_  _| |_  _| | || |     /  \     | || | |_   __ \    | || | |_   ___  |  | || |   /  ___  |  | || | |  _   _  |  | |
+| |      | |     | || |    / /\ \    | || |  \ \   / /   | || |    / /\ \    | || |   | |__) |   | || |   | |_  \_|  | || |  |  (__ \_|  | || | |_/ | | \_|  | |
+| |   _  | |     | || |   / ____ \   | || |   \ \ / /    | || |   / ____ \   | || |   |  __ /    | || |   |  _|  _   | || |   '.___`-.   | || |     | |      | |
+| |  | |_' |     | || | _/ /    \ \_ | || |    \ ' /     | || | _/ /    \ \_ | || |  _| |  \ \_  | || |  _| |___/ |  | || |  |`\____) |  | || |    _| |_     | |
+| |  `.___.'     | || ||____|  |____|| || |     \_/      | || ||____|  |____|| || | |____| |___| | || | |_________|  | || |  |_______.'  | || |   |_____|    | |
+| |              | || |              | || |              | || |              | || |              | || |              | || |              | || |              | |
+| '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' || '--------------' |
+ '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------'  '----------------' 
+                                                     
+```
