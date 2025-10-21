@@ -97,27 +97,4 @@ java,css,html,mysql,git,github,flask,androidstudio,jenkins,docker,spring,graphql
   - A practical on How to Create Computer Widgets
   - ⭐ 0 Stars | Language: Java | Forks: 0 | Issues: 0
 
-## GitHub Stats
-
-🌟 **Public Repositories:** 11  
-👥 **Followers:** 3  
-🔗 **Following:** 7  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Duncan472&show_icons=true&theme=radical)
-
-## Recent Activity
-
-- Pushed changes to [Dunwam-Bank](https://github.com/Duncan472/Dunwam-Bank) on 2025-10-20  
-- Created a new branch in [Duncan472](https://github.com/Duncan472/Duncan472) on 2025-10-20  
-- Updated [JepsChemistPOS](https://github.com/Duncan472/JepsChemistPOS) on 2025-10-20  
-- Pushed an update to [ComputerWidget](https://github.com/Duncan472/ComputerWidget) on 2025-06-12  
-- Created the repository [TemperatureConversionProgram-](https://github.com/Duncan472/TemperatureConversionProgram-) on 2024-06-08
-
-## Latest Blog Posts
-
-I currently do not have any blog posts. Stay tuned for updates!
-
-## Connect with Me
-
-{"linkedin":"https://www.linkedin.com/in/duncan-maina-345b52308/","facebook":"https://www.facebook.com/profile.php?id=100091578309225","twitter":"https://x.com/Mainadunca69552"}
-
 
